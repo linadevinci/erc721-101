@@ -7,7 +7,7 @@ module.exports = {
     hardhat: {
     },
     holesky: {
-      url: "https://eth.holesky.g.alchemy.com/v2/" + process.env.infura,
+      url: "https://eth-holesky.g.alchemy.com/v2/SY0uO-6pk-xxfR5g0bZJ4PBO0CaO22P7",
       accounts: [process.env.privateKey]
     },
     sepolia: {
